@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 19 00:45:07 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015a-e586-e1de-0000021777b8 
+on database directory /home/cloudera/Thanh/CreditCardFraud/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5b688e5 
+Loaded from file:/home/cloudera/Thanh/spark-2.1.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/cloudera/Thanh/CreditCardFraud
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-573.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
